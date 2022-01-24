@@ -14,9 +14,9 @@
 
 ### 图片演示
 
-![preview](.\docs\preview.gif)
+![preview](./docs/preview.gif)
 
-![preview2](.\docs\preview2.png)
+![preview2](./docs/preview2.png)
 
 ## 配置
 
@@ -29,11 +29,11 @@
 3. 在网页搜索框中随便输入
 
 4. 在`search_v3`中选中**Payloads**，获取到*_ApplicationId*,*_ClientVersion*，*_InstallationId*，*_SessionToken*
-   ![guide1](.\docs\guide1.png)
+   ![guide1](./docs/guide1.png)
 
 5. 在Quicker面板中找到本脚本右键选中`编辑`，并在此处
 
-   ![guide2](.\docs\guide2.png)
+   ![guide2](./docs/guide2.png)
 
    双击并填入第四步中得到的信息
 
