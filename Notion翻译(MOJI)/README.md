@@ -1,6 +1,9 @@
 # Notion翻译(MOJI)
 
-[Github首发页](https://github.com/StanHustler/Quicker-scripts/Notion翻译(MOJI)/)
+| [Github首发页](https://github.com/StanHustler/Quicker-scripts/Notion翻译(MOJI)/) | [Quicker动作库页](https://getquicker.net/Sharedaction?code=0577f610-1d14-45c9-7caf-08d9de3be7af) |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+
+
 
 |                            适用于                            |
 | :----------------------------------------------------------: |
